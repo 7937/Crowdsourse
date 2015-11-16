@@ -7,15 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		290B06801BD8BD160069E3F8 /* NavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 290B067F1BD8BD160069E3F8 /* NavigationController.m */; };
+		290B06831BD8BDD30069E3F8 /* TabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 290B06821BD8BDD30069E3F8 /* TabBarViewController.m */; };
+		290B069F1BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0000_留6.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B06971BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0000_留6.png */; };
+		290B06A01BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0001_形状-15-拷贝-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B06981BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0001_形状-15-拷贝-2.png */; };
+		290B06A11BD8D3B60069E3F8 /* 资源_0000s_0000_留1.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B06991BD8D3B60069E3F8 /* 资源_0000s_0000_留1.png */; };
+		290B06A21BD8D3B60069E3F8 /* 资源_0001s_0000s_0000_留2.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B069A1BD8D3B60069E3F8 /* 资源_0001s_0000s_0000_留2.png */; };
+		290B06A31BD8D3B60069E3F8 /* 资源_0002s_0000s_0000_多边形-2-拷贝-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B069B1BD8D3B60069E3F8 /* 资源_0002s_0000s_0000_多边形-2-拷贝-4.png */; };
+		290B06A41BD8D3B60069E3F8 /* 资源_0003s_0000_形状-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B069C1BD8D3B60069E3F8 /* 资源_0003s_0000_形状-25.png */; };
+		290B06A51BD8D3B60069E3F8 /* 资源_0003s_0000s_0000_留3.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B069D1BD8D3B60069E3F8 /* 资源_0003s_0000s_0000_留3.png */; };
+		290B06A61BD8D3B60069E3F8 /* 资源_0003s_0001_你的大学，我们承包了。.png in Resources */ = {isa = PBXBuildFile; fileRef = 290B069E1BD8D3B60069E3F8 /* 资源_0003s_0001_你的大学，我们承包了。.png */; };
+		2974BA241BE8F15800974709 /* RegistVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2974BA231BE8F15800974709 /* RegistVC.m */; };
+		297FC63D1BF4CFE500557E5B /* DataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 297FC63C1BF4CFE500557E5B /* DataViewController.m */; };
 		29DA1DBA1BD7CBCF008DB87B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29DA1DB91BD7CBCF008DB87B /* main.m */; };
 		29DA1DBD1BD7CBCF008DB87B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 29DA1DBC1BD7CBCF008DB87B /* AppDelegate.m */; };
 		29DA1DC01BD7CBCF008DB87B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29DA1DBF1BD7CBCF008DB87B /* ViewController.m */; };
 		29DA1DC31BD7CBCF008DB87B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29DA1DC11BD7CBCF008DB87B /* Main.storyboard */; };
 		29DA1DC51BD7CBCF008DB87B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29DA1DC41BD7CBCF008DB87B /* Assets.xcassets */; };
 		29DA1DC81BD7CBCF008DB87B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29DA1DC61BD7CBCF008DB87B /* LaunchScreen.storyboard */; };
+		9BB643B4ADB9F6BCF6FCC5CD /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F87C531115977BA712BEBD1 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		290B067E1BD8BD160069E3F8 /* NavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NavigationController.h; path = hahaha/NavigationController.h; sourceTree = "<group>"; };
+		290B067F1BD8BD160069E3F8 /* NavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NavigationController.m; path = hahaha/NavigationController.m; sourceTree = "<group>"; };
+		290B06811BD8BDD30069E3F8 /* TabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarViewController.h; sourceTree = "<group>"; };
+		290B06821BD8BDD30069E3F8 /* TabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarViewController.m; sourceTree = "<group>"; };
+		290B06971BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0000_留6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源-副本-2_0000s_0000s_0000_留6.png"; sourceTree = "<group>"; };
+		290B06981BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0001_形状-15-拷贝-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源-副本-2_0000s_0000s_0001_形状-15-拷贝-2.png"; sourceTree = "<group>"; };
+		290B06991BD8D3B60069E3F8 /* 资源_0000s_0000_留1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源_0000s_0000_留1.png"; sourceTree = "<group>"; };
+		290B069A1BD8D3B60069E3F8 /* 资源_0001s_0000s_0000_留2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源_0001s_0000s_0000_留2.png"; sourceTree = "<group>"; };
+		290B069B1BD8D3B60069E3F8 /* 资源_0002s_0000s_0000_多边形-2-拷贝-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源_0002s_0000s_0000_多边形-2-拷贝-4.png"; sourceTree = "<group>"; };
+		290B069C1BD8D3B60069E3F8 /* 资源_0003s_0000_形状-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源_0003s_0000_形状-25.png"; sourceTree = "<group>"; };
+		290B069D1BD8D3B60069E3F8 /* 资源_0003s_0000s_0000_留3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源_0003s_0000s_0000_留3.png"; sourceTree = "<group>"; };
+		290B069E1BD8D3B60069E3F8 /* 资源_0003s_0001_你的大学，我们承包了。.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "资源_0003s_0001_你的大学，我们承包了。.png"; sourceTree = "<group>"; };
+		290B06A81BD8D57A0069E3F8 /* Constant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Constant.h; path = hahaha/Constant.h; sourceTree = "<group>"; };
+		2974BA221BE8F15800974709 /* RegistVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistVC.h; sourceTree = "<group>"; };
+		2974BA231BE8F15800974709 /* RegistVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegistVC.m; sourceTree = "<group>"; };
+		297FC63B1BF4CFE500557E5B /* DataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DataViewController.h; path = hahaha/DataViewController.h; sourceTree = "<group>"; };
+		297FC63C1BF4CFE500557E5B /* DataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DataViewController.m; path = hahaha/DataViewController.m; sourceTree = "<group>"; };
 		29DA1DB51BD7CBCF008DB87B /* hahaha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hahaha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29DA1DB91BD7CBCF008DB87B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29DA1DBB1BD7CBCF008DB87B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +56,9 @@
 		29DA1DC41BD7CBCF008DB87B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29DA1DC71BD7CBCF008DB87B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29DA1DC91BD7CBCF008DB87B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A589BA49B14EBC4E914DD67 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		40E1CDA618441C77EB359FB3 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		7F87C531115977BA712BEBD1 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,17 +66,54 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BB643B4ADB9F6BCF6FCC5CD /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		290B06841BD8D33F0069E3F8 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				290B06961BD8D3B60069E3F8 /* 图标 */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		290B06961BD8D3B60069E3F8 /* 图标 */ = {
+			isa = PBXGroup;
+			children = (
+				290B06971BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0000_留6.png */,
+				290B06981BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0001_形状-15-拷贝-2.png */,
+				290B06991BD8D3B60069E3F8 /* 资源_0000s_0000_留1.png */,
+				290B069A1BD8D3B60069E3F8 /* 资源_0001s_0000s_0000_留2.png */,
+				290B069B1BD8D3B60069E3F8 /* 资源_0002s_0000s_0000_多边形-2-拷贝-4.png */,
+				290B069C1BD8D3B60069E3F8 /* 资源_0003s_0000_形状-25.png */,
+				290B069D1BD8D3B60069E3F8 /* 资源_0003s_0000s_0000_留3.png */,
+				290B069E1BD8D3B60069E3F8 /* 资源_0003s_0001_你的大学，我们承包了。.png */,
+			);
+			path = "图标";
+			sourceTree = "<group>";
+		};
+		290B06A71BD8D53E0069E3F8 /* ConstantFiles */ = {
+			isa = PBXGroup;
+			children = (
+				290B06A81BD8D57A0069E3F8 /* Constant.h */,
+			);
+			name = ConstantFiles;
+			sourceTree = "<group>";
+		};
 		29DA1DAC1BD7CBCF008DB87B = {
 			isa = PBXGroup;
 			children = (
+				290B06A71BD8D53E0069E3F8 /* ConstantFiles */,
+				290B06841BD8D33F0069E3F8 /* images */,
+				29DA1DCF1BD7CBE2008DB87B /* VC */,
 				29DA1DB71BD7CBCF008DB87B /* hahaha */,
 				29DA1DB61BD7CBCF008DB87B /* Products */,
+				BF3E4D041EFE2896CD82FF80 /* Pods */,
+				D38FDB3A8499DD789A407091 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,6 +149,38 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		29DA1DCF1BD7CBE2008DB87B /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				290B067E1BD8BD160069E3F8 /* NavigationController.h */,
+				290B067F1BD8BD160069E3F8 /* NavigationController.m */,
+				290B06811BD8BDD30069E3F8 /* TabBarViewController.h */,
+				290B06821BD8BDD30069E3F8 /* TabBarViewController.m */,
+				2974BA221BE8F15800974709 /* RegistVC.h */,
+				2974BA231BE8F15800974709 /* RegistVC.m */,
+				297FC63B1BF4CFE500557E5B /* DataViewController.h */,
+				297FC63C1BF4CFE500557E5B /* DataViewController.m */,
+			);
+			name = VC;
+			sourceTree = "<group>";
+		};
+		BF3E4D041EFE2896CD82FF80 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				40E1CDA618441C77EB359FB3 /* Pods.debug.xcconfig */,
+				3A589BA49B14EBC4E914DD67 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D38FDB3A8499DD789A407091 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7F87C531115977BA712BEBD1 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -86,9 +188,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 29DA1DCC1BD7CBCF008DB87B /* Build configuration list for PBXNativeTarget "hahaha" */;
 			buildPhases = (
+				403EDF88717CE3CB588C1A30 /* Check Pods Manifest.lock */,
 				29DA1DB11BD7CBCF008DB87B /* Sources */,
 				29DA1DB21BD7CBCF008DB87B /* Frameworks */,
 				29DA1DB31BD7CBCF008DB87B /* Resources */,
+				74D6CDAA01E1791E363E55E9 /* Embed Pods Frameworks */,
+				A9DADFF4A427CC9434DDE951 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -137,20 +242,80 @@
 			buildActionMask = 2147483647;
 			files = (
 				29DA1DC81BD7CBCF008DB87B /* LaunchScreen.storyboard in Resources */,
+				290B06A41BD8D3B60069E3F8 /* 资源_0003s_0000_形状-25.png in Resources */,
 				29DA1DC51BD7CBCF008DB87B /* Assets.xcassets in Resources */,
+				290B069F1BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0000_留6.png in Resources */,
+				290B06A01BD8D3B60069E3F8 /* 资源-副本-2_0000s_0000s_0001_形状-15-拷贝-2.png in Resources */,
 				29DA1DC31BD7CBCF008DB87B /* Main.storyboard in Resources */,
+				290B06A51BD8D3B60069E3F8 /* 资源_0003s_0000s_0000_留3.png in Resources */,
+				290B06A61BD8D3B60069E3F8 /* 资源_0003s_0001_你的大学，我们承包了。.png in Resources */,
+				290B06A11BD8D3B60069E3F8 /* 资源_0000s_0000_留1.png in Resources */,
+				290B06A21BD8D3B60069E3F8 /* 资源_0001s_0000s_0000_留2.png in Resources */,
+				290B06A31BD8D3B60069E3F8 /* 资源_0002s_0000s_0000_多边形-2-拷贝-4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		403EDF88717CE3CB588C1A30 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		74D6CDAA01E1791E363E55E9 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A9DADFF4A427CC9434DDE951 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		29DA1DB11BD7CBCF008DB87B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				297FC63D1BF4CFE500557E5B /* DataViewController.m in Sources */,
+				290B06831BD8BDD30069E3F8 /* TabBarViewController.m in Sources */,
 				29DA1DC01BD7CBCF008DB87B /* ViewController.m in Sources */,
+				290B06801BD8BD160069E3F8 /* NavigationController.m in Sources */,
 				29DA1DBD1BD7CBCF008DB87B /* AppDelegate.m in Sources */,
+				2974BA241BE8F15800974709 /* RegistVC.m in Sources */,
 				29DA1DBA1BD7CBCF008DB87B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,23 +424,27 @@
 		};
 		29DA1DCD1BD7CBCF008DB87B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 40E1CDA618441C77EB359FB3 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = hahaha/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AuRb.hahaha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
 		29DA1DCE1BD7CBCF008DB87B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A589BA49B14EBC4E914DD67 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = hahaha/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AuRb.hahaha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -298,6 +467,7 @@
 				29DA1DCE1BD7CBCF008DB87B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
